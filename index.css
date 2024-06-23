@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    padding: 3px 3px 3px 3px;
+    width: 400px;
+    height: 30px;
+}
+.auto{
+    position: absolute;
+    left: 200px;
+    color: gray;
+    top: 10px;
+}
+
+.suggest{
+    list-style: none;
+}
+
+li{
+    font-weight: bold;
+}
